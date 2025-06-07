@@ -6,6 +6,49 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+
+## 📦 Tech Stack
+
+- **Frontend**: React, React Router
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB (Mongoose)
+- **Email**: Nodemailer with Gmail SMTP
+
+---
+
+## 🚀 Features
+
+- User Registration
+- Secure OTP Login via Email
+- Email OTP Verification
+- Account Deletion
+- MongoDB for persistent storage
+
+---
+
+## 🖥️ Setup Instructions (Local Development)
+
+### 🔧 Backend
+
+1. Navigate to backend folder:
+```bash
+cd backend
+npm install
+
+##Start server:
+
+Navigate to frontend:
+
+
+cd ../frontend
+npm install
+
+
+Start app:
+
+npm start
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
